@@ -1,6 +1,6 @@
-# ⚡ Dockerized Nuxt 3 Starter
+# Dockerized Nuxt 3 Starter
 
-Working with Docker containers in is a convinient way to seperate local machines ressources and configuration from development environments. This minimal project is a starter for creating dockerized [Nuxt 3](https://github.com/nuxt/framework) applications.
+Working with Docker containers is a convinient way to seperate local machines ressources and configuration from development environments. This minimal project is a starter for creating dockerized [Nuxt 3](https://github.com/nuxt/framework) applications.
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@ Make sure that [docker](https://docs.docker.com/get-docker/) and [docker-compose
 Start the development server on http://localhost:3000
 
 ```bash
-docker-compose up
+docker compose up
 ```
 
 
